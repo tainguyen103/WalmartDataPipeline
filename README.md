@@ -40,3 +40,10 @@ After merging and cleaning the data, we will analyze monthly sales of Walmart an
 | 1.0  |  33174.178494 |
 |  2.0 |  34333.326579 |
 |  ... | ...  |  
+
+## 3. Tools
+- PostgreSQL
+- Python
+
+## 4. Contributor
+Tai Nguyen
