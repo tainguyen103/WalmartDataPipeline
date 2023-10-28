@@ -1,8 +1,8 @@
-# WalmartDataPipeline
+# Project: Build a Walmart sales database
 
 Walmart is the biggest retail store in the United States. Just like others, they have been expanding their e-commerce part of the business. By the end of 2022, e-commerce represented a roaring $80 billion in sales, which is 13% of total sales of Walmart. One of the main factors that affects their sales is public holidays, like the Super Bowl, Labour Day, Thanksgiving, and Christmas. 
 
-In this project, we will create a data pipeline for the analysis of demand and supply around the holidays and running preliminary analysis of the data. We will be working with two data sources: grocery sales (from PostgreSQL database) and complementary data (which is the `extra_data.parquet` file). 
+## 1. Objective: we will create a data pipeline for the analysis of demand and supply around the holidays and running preliminary analysis of the data. We will be working with two data sources: grocery sales (from PostgreSQL database) and complementary data (which is the `extra_data.parquet` file). 
 
 Here is information about all the available columns in the two data files:
 - `"index"` - unique ID of the row
