@@ -1,8 +1,11 @@
 # Project: Build a Walmart sales database
 
 Walmart is the biggest retail store in the United States. Just like others, they have been expanding their e-commerce part of the business. By the end of 2022, e-commerce represented a roaring $80 billion in sales, which is 13% of total sales of Walmart. One of the main factors that affects their sales is public holidays, like the Super Bowl, Labour Day, Thanksgiving, and Christmas. 
+![walmartecomm](https://github.com/tainguyen103/WalmartDataPipeline/assets/108405800/4e63a12a-480a-417f-abc0-86a55e10a4a5)
 
-## 1. Objective: we will create a data pipeline for the analysis of demand and supply around the holidays and running preliminary analysis of the data. 
+
+## 1. Objective: 
+We will create a data pipeline for the analysis of demand and supply around the holidays and running preliminary analysis of the data. 
 
 ## 2. Project breakdown:
 
