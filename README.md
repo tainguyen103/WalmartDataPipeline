@@ -47,6 +47,8 @@ After merging and cleaning the data, we will analyze monthly sales of Walmart an
 ## 3. Tools
 - PostgreSQL
 - Python
+- Pandas
+- NumPy
 
 ## 4. Programming Report 
 The code report can be found in the Walmart-datapline.ipynb file in the root directory of the project.
